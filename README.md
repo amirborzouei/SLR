@@ -1,0 +1,3 @@
+Study Project: Navigating EU Sustainability Reporting & Corporate Strategy
+
+This study project, conducted at Brandenburg University of Technology Cottbus, Chair of Environmental Planning, as part of the Environmental and Resource Management (MSc.) program, provides a systematic review of the evolving landscape of sustainability reporting within the European Union. It specifically investigates how regulatory developments, particularly the Corporate Sustainability Reporting Directive (CSRD), influence the design and implementation of Enterprise Risk Management (ERM) systems and broader corporate sustainability strategies in EU-based corporations.
